@@ -55,7 +55,7 @@ cd ~/Desktop/first-repo
 ```
 Then create a `readme.md` file. An easy way to start this quickly is:
 ```bash
-echo "# first-repo" >> README.md
+echo "# first-repo" >> readme.md
 ```
 Then initialize the Git repository:
 ```bash
