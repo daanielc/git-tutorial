@@ -75,7 +75,7 @@ git branch -M main
 ```
 ## Push Changes to GitHub
 
-Go to [GitHub](github.com) and create an account. It is probably best to sign up with an email address that you will continue to use for a long time, but you can also link your Rowland Hall email address later to get a bunch of professional software for free.
+Go to [GitHub](https://github.com/) and create an account. It is probably best to sign up with an email address that you will continue to use for a long time, but you can also link your Rowland Hall email address later to get a bunch of professional software for free.
 
 Once you have created your account create a new project called "first-repo"
 
