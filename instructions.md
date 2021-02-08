@@ -12,7 +12,7 @@
 * Fundamentally a folder on your computer
 * Every file in it is either "tracked" or "ignored"
 * When changes are made in "tracked" files, the user will "commit" them to the repository
-* Commited changes can then be "pushed" to a remote repository (GitHub)
+* Committed changes can then be "pushed" to a remote repository (GitHub)
 * Changes pushed by others to the remote repository can be "pulled" to the user's local repository
 * If multiple things are being developed in parallel, a repository can be split into multiple branches which can be worked on independently
 
